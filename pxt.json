@@ -1,0 +1,17 @@
+{
+    "name": "survive",
+    "dependencies": {
+        "device": "*",
+        "pxt-lantern": "github:riknoll/pxt-lantern#v0.1.1"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
